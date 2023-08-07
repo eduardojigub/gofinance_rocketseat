@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "gofinance_rocketseat",
+    "slug": "gofinance_rocketseat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
